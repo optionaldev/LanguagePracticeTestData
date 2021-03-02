@@ -1,0 +1,267 @@
+{
+  "nouns": [
+    {
+      "id": "trimming"
+    },
+    {
+      "id": "cleaning"
+    },
+    {
+      "id": "dusting"
+    },
+    {
+      "id": "scrubbing"
+    },
+    {
+      "id": "bamboo"
+    },
+    {
+      "id": "best"
+    },
+    {
+      "id": "highest"
+    },
+    {
+      "id": "mother"
+    },
+    {
+      "id": "mom"
+    },
+    {
+      "id": "seconds2",
+      "cl": "refill"
+    },
+    {
+      "id": "spare time"
+    },
+    {
+      "id": "angel",
+      "ie": 1
+    },
+    {
+      "id": "baby",
+      "ie": 1
+    },
+    {
+      "id": "bag",
+      "ie": 1
+    },
+    {
+      "id": "banana",
+      "ie": 1
+    },
+    {
+      "id": "bedroom",
+      "ie": 1
+    },
+    {
+      "id": "bicycle",
+      "ie": 1
+    },
+    {
+      "id": "box",
+      "ie": 1
+    },
+    {
+      "id": "bridge",
+      "ie": 1
+    },
+    {
+      "id": "cake",
+      "ie": 1
+    },
+    {
+      "id": "camera",
+      "ie": 1
+    },
+    {
+      "id": "car",
+      "ie": 1
+    },
+    {
+      "id": "cat",
+      "ie": 1
+    },
+    {
+      "id": "desk",
+      "ie": 1
+    },
+    {
+      "id": "dirty",
+      "ie": 1
+    },
+    {
+      "id": "dog",
+      "ie": 1
+    },
+    {
+      "id": "draw",
+      "ie": 1
+    },
+    {
+      "id": "eat",
+      "ie": 1
+    },
+    {
+      "id": "emoticon",
+      "ie": 1
+    },
+    {
+      "id": "eye",
+      "ie": 1
+    },
+    {
+      "id": "family",
+      "ie": 1
+    },
+    {
+      "id": "fish",
+      "ie": 1
+    },
+    {
+      "id": "island",
+      "ie": 1
+    },
+    {
+      "id": "kitchen",
+      "ie": 1
+    },
+    {
+      "id": "meal",
+      "ie": 1
+    },
+    {
+      "id": "money",
+      "ie": 1
+    },
+    {
+      "id": "party",
+      "ie": 1
+    },
+    {
+      "id": "rain",
+      "ie": 1
+    },
+    {
+      "id": "salad",
+      "ie": 1
+    },
+    {
+      "id": "shopping",
+      "ie": 1
+    },
+    {
+      "id": "snake",
+      "ie": 1
+    },
+    {
+      "id": "talk",
+      "ie": 1
+    },
+    {
+      "id": "thinking",
+      "ie": 1
+    },
+    {
+      "id": "travel",
+      "ie": 1
+    },
+    {
+      "id": "tv",
+      "ie": 1
+    },
+    {
+      "id": "window",
+      "ie": 1
+    },
+    {
+      "id": "free time"
+    }
+  ],
+  "pronouns": [
+    {
+      "id": "you"
+    }
+  ],
+  "verbs": [
+    {
+      "id": "eat"
+    },
+    {
+      "id": "smoke"
+    },
+    {
+      "id": "inhale"
+    },
+    {
+      "id": "suck"
+    },
+    {
+      "id": "chill"
+    },
+    {
+      "id": "step aside"
+    },
+    {
+      "id": "move"
+    },
+    {
+      "id": "make way"
+    }
+  ],
+  "adjectives": [],
+  "adverbs": [
+    {
+      "id": "again"
+    },
+    {
+      "id": "still"
+    },
+    {
+      "id": "a little"
+    },
+    {
+      "id": "a bit"
+    },
+    {
+      "id": "slightly"
+    },
+    {
+      "id": "nuisance"
+    },
+    {
+      "id": "obstacle"
+    },
+    {
+      "id": "how"
+    },
+    {
+      "id": "in what way"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "excuse me"
+    }
+  ],
+  "conjunctions": [
+    {
+      "id": "while"
+    }
+  ],
+  "prepositions": [],
+  "interjections": [],
+  "determiners": [
+    {
+      "id": "this"
+    }
+  ],
+  "exclamations": [
+    {
+      "id": "jeez"
+    },
+    {
+      "id": "come on!"
+    }
+  ]
+}

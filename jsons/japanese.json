@@ -1,0 +1,353 @@
+{
+  "nouns": [
+    {
+      "id": "tenshi",
+      "fg": "てん し",
+      "ch": "天使",
+      "en": [
+        "angel"
+      ]
+    },
+    {
+      "id": "akachan",
+      "fg": "あか",
+      "ch": "赤ちゃん",
+      "en": [
+        "baby"
+      ]
+    },
+    {
+      "id": "kaban",
+      "ch": "かばん",
+      "en": [
+        "bag"
+      ]
+    },
+    {
+      "id": "jitensha",
+      "fg": "じ てん しゃ",
+      "ch": "自転車",
+      "en": [
+        "bicycle"
+      ]
+    },
+    {
+      "id": "hashi",
+      "fg": "はし",
+      "ch": "橋",
+      "en": [
+        "bridge"
+      ]
+    },
+    {
+      "id": "neko",
+      "fg": "ねこ",
+      "ch": "猫",
+      "en": [
+        "cat"
+      ]
+    },
+    {
+      "id": "inu",
+      "fg": "いぬ",
+      "ch": "犬",
+      "en": [
+        "dog"
+      ]
+    },
+    {
+      "id": "kazoku",
+      "fg": "か ぞく",
+      "ch": "家族",
+      "en": [
+        "family"
+      ]
+    },
+    {
+      "id": "kaimono",
+      "fg": "か もの",
+      "ch": "買い物",
+      "en": [
+        "shopping"
+      ]
+    },
+    {
+      "id": "ryokou",
+      "fg": "りょ こう",
+      "ch": "旅行",
+      "en": [
+        "travel"
+      ]
+    },
+    {
+      "id": "terebi",
+      "ch": "テレビ",
+      "en": [
+        "tv"
+      ]
+    },
+    {
+      "id": "mado",
+      "fg": "まど",
+      "ch": "窓",
+      "en": [
+        "window"
+      ]
+    },
+    {
+      "id": "saikou",
+      "fg": "さい こう",
+      "ch": "最高",
+      "en": [
+        "best",
+        "highest"
+      ]
+    },
+    {
+      "id": "souji1",
+      "fg": "そう じ",
+      "ch": "掃除",
+      "en": [
+        "cleaning",
+        "dusting",
+        "scrubbing",
+        "sweeping"
+      ]
+    },
+    {
+      "id": "sasa",
+      "fg": "ささ",
+      "ch": "笹",
+      "en": [
+        "bamboo"
+      ]
+    },
+    {
+      "id": "jyama",
+      "fg": "じゃ ま",
+      "ch": "邪魔",
+      "en": [
+        "nuisance"
+      ]
+    },
+    {
+      "id": "okaasan",
+      "fg": "かあ",
+      "ch": "お母さん",
+      "en": [
+        "mother",
+        "mom"
+      ]
+    },
+    {
+      "id": "okawari",
+      "fg": "か",
+      "ch": "お代わり",
+      "en": [
+        "seconds2"
+      ]
+    },
+    {
+      "id": "shourai",
+      "fg": "しょう らい",
+      "ch": "将来",
+      "en": [
+        "future"
+      ]
+    },
+    {
+      "id": "hanashi",
+      "fg": "はなし",
+      "ch": "話",
+      "en": [
+        "talk",
+        "speech",
+        "chat"
+      ]
+    },
+    {
+      "id": "hima",
+      "fg": "ひま",
+      "ch": "暇",
+      "en": [
+        "spare time",
+        "free time"
+      ]
+    }
+  ],
+  "pre-noun adjectivals": [
+    {
+      "id": "kono",
+      "ch": "この",
+      "en": [
+        "this"
+      ]
+    }
+  ],
+  "pronoun": [
+    {
+      "id": "anata",
+      "ch": "あなた",
+      "en": [
+        "you"
+      ]
+    }
+  ],
+  "verbs": [
+    {
+      "id": "taberu",
+      "fg": "た",
+      "ch": "食べる",
+      "en": [
+        "eat"
+      ]
+    },
+    {
+      "id": "doku",
+      "ch": "どく",
+      "en": [
+        "step aside",
+        "move",
+        "make way"
+      ]
+    }
+  ],
+  "suruVerbs": [
+    {
+      "id": "nonbiri",
+      "ch": "のんびり",
+      "en": [
+        "chill"
+      ]
+    },
+    {
+      "id": "suu",
+      "fg": "す",
+      "ch": "吸う",
+      "en": [
+        "smoke",
+        "inhale",
+        "suck"
+      ]
+    },
+    {
+      "id": "gorogoro",
+      "ch": "ゴロゴロ",
+      "en": "idle"
+    }
+  ],
+  "dropRuVerbs": [
+    {}
+  ],
+  "irregularVerbs": [
+    {
+      "id": "aru",
+      "ch": "ある",
+      "en": [
+        "be",
+        "have"
+      ],
+      "clr": "inanimate"
+    },
+    {
+      "id": "kuru",
+      "fg": "く",
+      "ch": "来る",
+      "en": [
+        "come"
+      ],
+      "rk": 1
+    },
+    {
+      "id": "suru",
+      "ch": "する",
+      "en": [
+        "do"
+      ]
+    }
+  ],
+  "adjectives": [],
+  "iAdjectives": [],
+  "naAdjectives": [
+    {
+      "id": "mitai",
+      "fg": "みたい",
+      "en": [
+        "like5",
+        "sort of",
+        "similar to",
+        "resembling"
+      ]
+    }
+  ],
+  "adverbs": [
+    {
+      "id": "chotto",
+      "ch": "ちょっと",
+      "en": [
+        "a little",
+        "a bit",
+        "slightly"
+      ]
+    },
+    {
+      "id": "chotto2",
+      "ch": "ちょっと",
+      "en": [
+        "excuse me"
+      ]
+    },
+    {
+      "id": "nagara",
+      "ch": "ながら",
+      "en": [
+        "while"
+      ]
+    },
+    {
+      "id": "mata",
+      "ch": "また",
+      "en": [
+        "again",
+        "still"
+      ]
+    },
+    {
+      "id": "dou",
+      "ch": "どう",
+      "en": [
+        "how",
+        "in what way"
+      ]
+    },
+    {
+      "id": "mou",
+      "ch": "もう",
+      "en": [
+        "jeez!",
+        "come on!"
+      ]
+    }
+  ],
+  "counters": [],
+  "conjunctions": [],
+  "expressions": [],
+  "particles": [
+    {
+      "id": "kara",
+      "ch": "から",
+      "en": [
+        "from"
+      ]
+    },
+    {
+      "id": "kara2",
+      "ch": "から",
+      "en": [
+        "because",
+        "since"
+      ]
+    }
+  ],
+  "prepositions": []
+}
