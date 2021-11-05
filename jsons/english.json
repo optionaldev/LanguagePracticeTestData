@@ -1,7 +1,161 @@
 {
   "nouns": [
     {
+      "id": "well"
+    },{
       "id": "trimming"
+    },{
+      "id": "healthy"
+    },{
+      "id": "teacher"
+    },{
+      "id": "now"
+    },{
+      "id": "movie"
+    },{
+      "id": "busy"
+    },{
+      "id": "lately"
+    },{
+      "id": "recently"
+    },{
+      "id": "today"
+    },{
+      "id": "sleepy"
+    },{
+      "id": "hardship"
+    },{
+      "id": "tough"
+    },{
+      "id": "ok"
+    },{
+      "id": "I"
+    },{
+      "id": "me"
+    },{
+      "id": "cooked rice"
+    },{
+      "id": "meal"
+    },{
+      "id": "money"
+    },{
+      "id": "family"
+    },{
+      "id": "parents"
+    },{
+      "id": "mother"
+    },{
+      "id": "father"
+    },{
+      "id": "wife"
+    },{
+      "id": "husband"
+    },{
+      "id": "older sister"
+    },{
+      "id": "younger sister"
+    },{
+      "id": "younger brother"
+    },{
+      "id": "older brother"
+    },{
+      "id": "son"
+    },{
+      "id": "daughter"
+    },{
+      "id": "Yamada"
+    },{
+      "id": "Japanese person"
+    },{
+      "id": "hot_1"
+    },{
+      "id": "Tanaka"
+    },{
+      "id": "young"
+    },{
+      "id": "secret"
+    },{
+      "id": "fun"
+    },{
+      "id": "cold_1"
+    },{
+      "id": "likeable"
+    },{
+      "id": "distasteful"
+    },{
+      "id": "luckily"
+    },{
+      "id": "fortunately"
+    },{
+      "id": "person"
+    },{
+      "id": "when"
+    },{
+      "id": "Yamamoto"
+    },{
+      "id": "new"
+    },{
+      "id": "Japanese"
+    },{
+      "id": "skillful"
+    },{
+      "id": "sleepy"
+    },{
+      "id": "afternoon"
+    },{
+      "id": "good night"
+    },{
+      "id": "homework"
+    },{
+      "id": "difficult"
+    },{
+      "id": "easy"
+    },{
+      "id": "maybe"
+    },{
+      "id": "name"
+    },{
+      "id": "car"
+    },{
+      "id": "Japan"
+    },{
+      "id": "desk"
+    },{
+      "id": "above"
+    },{
+      "id": "up"
+    },{
+      "id": "down"
+    },{
+      "id": "below"
+    },{
+      "id": "red"
+    },{
+      "id": "interesting"
+    },{
+      "id": "book"
+    },{
+      "id": "this year"
+    },{
+      "id": "winter"
+    },{
+      "id": "class"
+    },{
+      "id": "lecture"
+    },{
+      "id": "not at all"
+    },{
+      "id": "hobby"
+    },{
+      "id": "interest"
+    },{
+      "id": "food"
+    },{
+      "id": "next year"
+    },{
+      "id": "number 1"
+    },{
+      "id": "best"
     },
     {
       "id": "cleaning"
@@ -17,8 +171,7 @@
     },
     {
       "id": "best"
-    },
-    {
+    },{
       "id": "highest"
     },
     {
@@ -26,8 +179,7 @@
     },
     {
       "id": "mom"
-    },
-    {
+    },{
       "id": "seconds2",
       "cl": "refill"
     },
@@ -49,8 +201,7 @@
     {
       "id": "banana",
       "ie": 1
-    },
-    {
+    },{
       "id": "bedroom",
       "ie": 1
     },
@@ -73,8 +224,7 @@
     {
       "id": "camera",
       "ie": 1
-    },
-    {
+    },{
       "id": "car",
       "ie": 1
     },
@@ -101,8 +251,7 @@
     {
       "id": "eat",
       "ie": 1
-    },
-    {
+    },{
       "id": "emoticon",
       "ie": 1
     },
@@ -121,8 +270,7 @@
     {
       "id": "island",
       "ie": 1
-    },
-    {
+    },{
       "id": "kitchen",
       "ie": 1
     },
