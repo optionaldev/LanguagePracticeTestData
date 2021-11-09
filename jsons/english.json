@@ -21,8 +21,6 @@
     },{
       "id": "today"
     },{
-      "id": "sleepy"
-    },{
       "id": "hardship"
     },{
       "id": "tough"
@@ -34,12 +32,6 @@
       "id": "me"
     },{
       "id": "cooked rice"
-    },{
-      "id": "meal"
-    },{
-      "id": "money"
-    },{
-      "id": "family"
     },{
       "id": "parents"
     },{
@@ -115,11 +107,7 @@
     },{
       "id": "name"
     },{
-      "id": "car"
-    },{
       "id": "Japan"
-    },{
-      "id": "desk"
     },{
       "id": "above"
     },{
@@ -155,8 +143,6 @@
     },{
       "id": "number 1"
     },{
-      "id": "best"
-    },
     {
       "id": "cleaning"
     },
@@ -175,12 +161,9 @@
       "id": "highest"
     },
     {
-      "id": "mother"
-    },
-    {
       "id": "mom"
     },{
-      "id": "seconds2",
+      "id": "seconds_2",
       "cl": "refill"
     },
     {
