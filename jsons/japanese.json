@@ -1,910 +1,1368 @@
 {
   "hiragana": [
-  {
-    "id": "a",
-    "ch": "あ",
-    "po": [0, 0]
-  }, {
-    "id": "i",
-    "ch": "い",
-    "po": [0, 1]
-  }, {
-    "id": "u",
-    "ch": "う",
-    "po": [0, 2]
-  }, {
-    "id": "e",
-    "ch": "え",
-    "po": [0, 3]
-  }, {
-    "id": "o",
-    "ch": "お",
-    "po": [0, 4]
-  }, {
-    "id": "ka",
-    "ch": "か",
-    "po": [1, 0]
-  }, {
-    "id": "ki",
-    "ch": "き",
-    "po": [1, 1]
-  }, {
-    "id": "ku",
-    "ch": "く",
-    "po": [1, 2]
-  }, {
-    "id": "ke",
-    "ch": "け",
-    "po": [1, 3]
-  }, {
-    "id": "ko",
-    "ch": "こ",
-    "po": [1, 4]
-  }, {
-    "id": "sa",
-    "ch": "さ",
-    "po": [2, 0]
-  }, {
-    "id": "shi",
-    "ch": "し",
-    "po": [2, 1]
-  }, {
-    "id": "su",
-    "ch": "す",
-    "po": [2, 2]
-  }, {
-    "id": "se",
-    "ch": "せ",
-    "po": [2, 3]
-  }, {
-    "id": "so",
-    "ch": "そ",
-    "po": [2, 4]
-  }, {
-    "id": "ta",
-    "ch": "た",
-    "po": [3, 0]
-  }, {
-    "id": "chi",
-    "ch": "ち",
-    "po": [3, 1]
-  }, {
-    "id": "tsu",
-    "ch": "つ",
-    "po": [3, 2]
-  }, {
-    "id": "te",
-    "ch": "て",
-    "po": [3, 3]
-  }, {
-    "id": "to",
-    "ch": "と",
-    "po": [3, 4]
-  }, {
-    "id": "na",
-    "ch": "な",
-    "po": [4, 0]
-  }, {
-    "id": "ni",
-    "ch": "に",
-    "po": [4, 1]
-  }, {
-    "id": "nu",
-    "ch": "ぬ",
-    "po": [4, 2]
-  }, {
-    "id": "ne",
-    "ch": "ね",
-    "po": [4, 3]
-  }, {
-    "id": "no",
-    "ch": "の",
-    "po": [4, 4]
-  }, {
-    "id": "ha",
-    "ch": "は",
-    "po": [5, 0]
-  }, {
-    "id": "hi",
-    "ch": "ひ",
-    "po": [5, 1]
-  }, {
-    "id": "fu",
-    "ch": "ふ",
-    "po": [5, 2]
-  }, {
-    "id": "he",
-    "ch": "へ",
-    "ip": "he",
-    "po": [5, 3]
-  }, {
-    "id": "ho",
-    "ch": "ほ",
-    "po": [5, 4]
-  }, {
-    "id": "ma",
-    "ch": "ま",
-    "po": [6, 0]
-  }, {
-    "id": "mi",
-    "ch": "み",
-    "po": [6, 1]
-  }, {
-    "id": "mu",
-    "ch": "む",
-    "po": [6, 2]
-  }, {
-    "id": "me",
-    "ch": "め",
-    "po": [6, 3]
-  }, {
-    "id": "mo",
-    "ch": "も",
-    "po": [6, 4]
-  }, {
-    "id": "ya",
-    "ch": "や",
-    "po": [7, 0]
-  }, {
-    "id": "yu",
-    "ch": "ゆ",
-    "po": [7, 2]
-  }, {
-    "id": "yo",
-    "ch": "よ",
-    "po": [7, 4]
-  }, {
-    "id": "ra",
-    "ch": "ら",
-    "po": [8, 1]
-  }, {
-    "id": "ri",
-    "ch": "り",
-    "po": [8, 2]
-  }, {
-    "id": "ru",
-    "ch": "る",
-    "po": [8, 3]
-  }, {
-    "id": "re",
-    "ch": "れ",
-    "po": [8, 4]
-  }, {
-    "id": "ro",
-    "ch": "ろ",
-    "po": [8, 5]
-  }, {
-    "id": "wa",
-    "ch": "わ",
-    "po": [9, 0]
-  }, {
-    "id": "wo",
-    "ch": "を",
-    "ip": "wo",
-    "po": [9, 4]
-  }, {
-    "id": "n",
-    "ch": "ん",
-    "po": [10, 0]
-  }],
-  "katakana": [{
-    "id": "a_2",
-    "ch": "ア",
-    "po": [0, 0]
-  }, {
-    "id": "i_2",
-    "ch": "イ",
-    "po": [0, 1]
-  }, {
-    "id": "u_2",
-    "ch": "ウ",
-    "po": [0, 2]
-  }, {
-    "id": "e_2",
-    "ch": "エ",
-    "po": [0, 3]
-  }, {
-    "id": "o_2",
-    "ch": "オ",
-    "po": [0, 4]
-  }, {
-    "id": "ka_2",
-    "ch": "カ",
-    "po": [1, 0]
-  }, {
-    "id": "ki_2",
-    "ch": "キ",
-    "po": [1, 1]
-  }, {
-    "id": "ku_2",
-    "ch": "ク",
-    "po": [1, 2]
-  }, {
-    "id": "ke_2",
-    "ch": "ケ",
-    "po": [1, 3]
-  }, {
-    "id": "ko_2",
-    "ch": "コ",
-    "po": [1, 4]
-  }, {
-    "id": "sa_2",
-    "ch": "サ",
-    "po": [2, 0]
-  }, {
-    "id": "shi_2",
-    "ch": "シ",
-    "po": [2, 1]
-  }, {
-    "id": "su_2",
-    "ch": "ス",
-    "po": [2, 2]
-  }, {
-    "id": "se_2",
-    "ch": "セ",
-    "po": [2, 3]
-  }, {
-    "id": "so_2",
-    "ch": "ソ",
-    "po": [2, 4]
-  }, {
-    "id": "ta_2",
-    "ch": "タ",
-    "po": [3, 0]
-  }, {
-    "id": "chi_2",
-    "ch": "チ",
-    "po": [3, 1]
-  }, {
-    "id": "tsu_2",
-    "ch": "ツ",
-    "po": [3, 2]
-  }, {
-    "id": "te_2",
-    "ch": "テ",
-    "po": [3, 3]
-  }, {
-    "id": "to_2",
-    "ch": "ト",
-    "po": [3, 4]
-  }, {
-    "id": "na_2",
-    "ch": "ナ",
-    "po": [4, 0]
-  }, {
-    "id": "ni_2",
-    "ch": "ニ",
-    "po": [4, 1]
-  }, {
-    "id": "nu_2",
-    "ch": "ヌ",
-    "po": [4, 2]
-  }, {
-    "id": "ne_2",
-    "ch": "ネ",
-    "po": [4, 3]
-  }, {
-    "id": "no_2",
-    "ch": "ノ",
-    "po": [4, 4]
-  }, {
-    "id": "ha_2",
-    "ch": "ハ",
-    "po": [5, 0]
-  }, {
-    "id": "hi_2",
-    "ch": "ヒ",
-    "po": [5, 1]
-  }, {
-    "id": "fu_2",
-    "ch": "フ",
-    "po": [5, 2]
-  }, {
-    "id": "he_2",
-    "ch": "ヘ",
-    "ip": "he",
-    "po": [5, 3]
-  }, {
-    "id": "ho_2",
-    "ch": "ホ",
-    "po": [5, 4]
-  }, {
-    "id": "ma_2",
-    "ch": "マ",
-    "po": [6, 0]
-  }, {
-    "id": "mi_2",
-    "ch": "ミ",
-    "po": [6, 1]
-  }, {
-    "id": "mu_2",
-    "ch": "ム",
-    "po": [6, 2]
-  }, {
-    "id": "me_2",
-    "ch": "メ",
-    "po": [6, 3]
-  }, {
-    "id": "mo_2",
-    "ch": "モ",
-    "po": [6, 4]
-  }, {
-    "id": "ya_2",
-    "ch": "ヤ",
-    "po": [7, 0]
-  }, {
-    "id": "yu_2",
-    "ch": "ユ",
-    "po": [7, 2]
-  }, {
-    "id": "yo_2",
-    "ch": "ヨ",
-    "po": [7, 4]
-  }, {
-    "id": "ra_2",
-    "ch": "ラ",
-    "po": [8, 1]
-  }, {
-    "id": "ri_2",
-    "ch": "リ",
-    "po": [8, 2]
-  }, {
-    "id": "ru_2",
-    "ch": "ル",
-    "po": [8, 3]
-  }, {
-    "id": "re_2",
-    "ch": "レ",
-    "po": [8, 4]
-  }, {
-    "id": "ro_2",
-    "ch": "ロ",
-    "po": [8, 5]
-  }, {
-    "id": "wa_2",
-    "ch": "ワ",
-    "po": [9, 0]
-  }, {
-    "id": "wo_2",
-    "ch": "ヲ",
-    "ip": "wo",
-    "po": [9, 4]
-  }, {
-    "id": "n_2",
-    "ch": "ン",
-    "po": [10, 0]
-  }],
-  "nouns": [{
-		"id": "genki",
+    {
+      "id": "a",
+      "ch": "あ",
+      "po": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "i",
+      "ch": "い",
+      "po": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "u",
+      "ch": "う",
+      "po": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "e",
+      "ch": "え",
+      "po": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "o",
+      "ch": "お",
+      "po": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": "ka",
+      "ch": "か",
+      "po": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "ki",
+      "ch": "き",
+      "po": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "ku",
+      "ch": "く",
+      "po": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "ke",
+      "ch": "け",
+      "po": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "ko",
+      "ch": "こ",
+      "po": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "sa",
+      "ch": "さ",
+      "po": [
+        2,
+        0
+      ]
+    },
+    {
+      "id": "shi",
+      "ch": "し",
+      "po": [
+        2,
+        1
+      ]
+    },
+    {
+      "id": "su",
+      "ch": "す",
+      "po": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": "se",
+      "ch": "せ",
+      "po": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "so",
+      "ch": "そ",
+      "po": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": "ta",
+      "ch": "た",
+      "po": [
+        3,
+        0
+      ]
+    },
+    {
+      "id": "chi",
+      "ch": "ち",
+      "po": [
+        3,
+        1
+      ]
+    },
+    {
+      "id": "tsu",
+      "ch": "つ",
+      "po": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": "te",
+      "ch": "て",
+      "po": [
+        3,
+        3
+      ]
+    },
+    {
+      "id": "to",
+      "ch": "と",
+      "po": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "na",
+      "ch": "な",
+      "po": [
+        4,
+        0
+      ]
+    },
+    {
+      "id": "ni",
+      "ch": "に",
+      "po": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": "nu",
+      "ch": "ぬ",
+      "po": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": "ne",
+      "ch": "ね",
+      "po": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": "no",
+      "ch": "の",
+      "po": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": "ha",
+      "ch": "は",
+      "po": [
+        5,
+        0
+      ]
+    },
+    {
+      "id": "hi",
+      "ch": "ひ",
+      "po": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": "fu",
+      "ch": "ふ",
+      "po": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": "he",
+      "ch": "へ",
+      "ip": "he",
+      "po": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": "ho",
+      "ch": "ほ",
+      "po": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": "ma",
+      "ch": "ま",
+      "po": [
+        6,
+        0
+      ]
+    },
+    {
+      "id": "mi",
+      "ch": "み",
+      "po": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": "mu",
+      "ch": "む",
+      "po": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": "me",
+      "ch": "め",
+      "po": [
+        6,
+        3
+      ]
+    },
+    {
+      "id": "mo",
+      "ch": "も",
+      "po": [
+        6,
+        4
+      ]
+    },
+    {
+      "id": "ya",
+      "ch": "や",
+      "po": [
+        7,
+        0
+      ]
+    },
+    {
+      "id": "yu",
+      "ch": "ゆ",
+      "po": [
+        7,
+        2
+      ]
+    },
+    {
+      "id": "yo",
+      "ch": "よ",
+      "po": [
+        7,
+        4
+      ]
+    },
+    {
+      "id": "ra",
+      "ch": "ら",
+      "po": [
+        8,
+        1
+      ]
+    },
+    {
+      "id": "ri",
+      "ch": "り",
+      "po": [
+        8,
+        2
+      ]
+    },
+    {
+      "id": "ru",
+      "ch": "る",
+      "po": [
+        8,
+        3
+      ]
+    },
+    {
+      "id": "re",
+      "ch": "れ",
+      "po": [
+        8,
+        4
+      ]
+    },
+    {
+      "id": "ro",
+      "ch": "ろ",
+      "po": [
+        8,
+        5
+      ]
+    },
+    {
+      "id": "wa",
+      "ch": "わ",
+      "po": [
+        9,
+        0
+      ]
+    },
+    {
+      "id": "wo",
+      "ch": "を",
+      "ip": "wo",
+      "po": [
+        9,
+        4
+      ]
+    },
+    {
+      "id": "n",
+      "ch": "ん",
+      "po": [
+        10,
+        0
+      ]
+    }
+  ],
+  "katakana": [
+    {
+      "id": "a_2",
+      "ch": "ア",
+      "po": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "i_2",
+      "ch": "イ",
+      "po": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "u_2",
+      "ch": "ウ",
+      "po": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "e_2",
+      "ch": "エ",
+      "po": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "o_2",
+      "ch": "オ",
+      "po": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": "ka_2",
+      "ch": "カ",
+      "po": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "ki_2",
+      "ch": "キ",
+      "po": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "ku_2",
+      "ch": "ク",
+      "po": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "ke_2",
+      "ch": "ケ",
+      "po": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "ko_2",
+      "ch": "コ",
+      "po": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "sa_2",
+      "ch": "サ",
+      "po": [
+        2,
+        0
+      ]
+    },
+    {
+      "id": "shi_2",
+      "ch": "シ",
+      "po": [
+        2,
+        1
+      ]
+    },
+    {
+      "id": "su_2",
+      "ch": "ス",
+      "po": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": "se_2",
+      "ch": "セ",
+      "po": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "so_2",
+      "ch": "ソ",
+      "po": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": "ta_2",
+      "ch": "タ",
+      "po": [
+        3,
+        0
+      ]
+    },
+    {
+      "id": "chi_2",
+      "ch": "チ",
+      "po": [
+        3,
+        1
+      ]
+    },
+    {
+      "id": "tsu_2",
+      "ch": "ツ",
+      "po": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": "te_2",
+      "ch": "テ",
+      "po": [
+        3,
+        3
+      ]
+    },
+    {
+      "id": "to_2",
+      "ch": "ト",
+      "po": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "na_2",
+      "ch": "ナ",
+      "po": [
+        4,
+        0
+      ]
+    },
+    {
+      "id": "ni_2",
+      "ch": "ニ",
+      "po": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": "nu_2",
+      "ch": "ヌ",
+      "po": [
+        4,
+        2
+      ]
+    },
+    {
+      "id": "ne_2",
+      "ch": "ネ",
+      "po": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": "no_2",
+      "ch": "ノ",
+      "po": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": "ha_2",
+      "ch": "ハ",
+      "po": [
+        5,
+        0
+      ]
+    },
+    {
+      "id": "hi_2",
+      "ch": "ヒ",
+      "po": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": "fu_2",
+      "ch": "フ",
+      "po": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": "he_2",
+      "ch": "ヘ",
+      "ip": "he",
+      "po": [
+        5,
+        3
+      ]
+    },
+    {
+      "id": "ho_2",
+      "ch": "ホ",
+      "po": [
+        5,
+        4
+      ]
+    },
+    {
+      "id": "ma_2",
+      "ch": "マ",
+      "po": [
+        6,
+        0
+      ]
+    },
+    {
+      "id": "mi_2",
+      "ch": "ミ",
+      "po": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": "mu_2",
+      "ch": "ム",
+      "po": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": "me_2",
+      "ch": "メ",
+      "po": [
+        6,
+        3
+      ]
+    },
+    {
+      "id": "mo_2",
+      "ch": "モ",
+      "po": [
+        6,
+        4
+      ]
+    },
+    {
+      "id": "ya_2",
+      "ch": "ヤ",
+      "po": [
+        7,
+        0
+      ]
+    },
+    {
+      "id": "yu_2",
+      "ch": "ユ",
+      "po": [
+        7,
+        2
+      ]
+    },
+    {
+      "id": "yo_2",
+      "ch": "ヨ",
+      "po": [
+        7,
+        4
+      ]
+    },
+    {
+      "id": "ra_2",
+      "ch": "ラ",
+      "po": [
+        8,
+        1
+      ]
+    },
+    {
+      "id": "ri_2",
+      "ch": "リ",
+      "po": [
+        8,
+        2
+      ]
+    },
+    {
+      "id": "ru_2",
+      "ch": "ル",
+      "po": [
+        8,
+        3
+      ]
+    },
+    {
+      "id": "re_2",
+      "ch": "レ",
+      "po": [
+        8,
+        4
+      ]
+    },
+    {
+      "id": "ro_2",
+      "ch": "ロ",
+      "po": [
+        8,
+        5
+      ]
+    },
+    {
+      "id": "wa_2",
+      "ch": "ワ",
+      "po": [
+        9,
+        0
+      ]
+    },
+    {
+      "id": "wo_2",
+      "ch": "ヲ",
+      "ip": "wo",
+      "po": [
+        9,
+        4
+      ]
+    },
+    {
+      "id": "n_2",
+      "ch": "ン",
+      "po": [
+        10,
+        0
+      ]
+    }
+  ],
+  "nouns": [
+    {
+      "id": "genki",
       "fg": "げん き",
       "ch": "元気",
       "en": [
-        "well", "healthy"
+        "well",
+        "healthy"
       ]
-    },{
-		"id": "sensei",
+    },
+    {
+      "id": "sensei",
       "fg": "せん せい",
       "ch": "先生",
       "en": [
         "teacher"
       ]
-    },{
-		"id": "ima",
+    },
+    {
+      "id": "ima",
       "fg": "いま",
       "ch": "今",
       "en": [
         "now"
       ]
-    },{
-		"id": "eiga",
+    },
+    {
+      "id": "eiga",
       "fg": "えい が",
       "ch": "映画",
       "en": [
         "movie"
       ]
-    },{
-		"id": "isogashii",
+    },
+    {
+      "id": "isogashii",
       "fg": "いそが",
       "ch": "忙しい",
       "en": [
         "busy"
       ]
-    },{
-		"id": "saikin",
+    },
+    {
+      "id": "saikin",
       "fg": "さい きん",
       "ch": "最近",
       "en": [
-        "lately", "recently"
+        "lately",
+        "recently"
       ]
-    },{
-		"id": "kyou",
+    },
+    {
+      "id": "kyou",
       "fg": "きょう",
       "ch": "今日",
       "en": [
         "today"
       ]
-    },{
-		"id": "nemu",
+    },
+    {
+      "id": "nemu",
       "fg": "ねむ",
       "ch": "眠い",
       "en": [
         "sleepy"
       ]
-    },{
-		"id": "taihen",
+    },
+    {
+      "id": "taihen",
       "fg": "たい へん",
       "ch": "大変",
       "en": [
-        "hardship", "tough"
+        "hardship",
+        "tough"
       ]
-    },{
-		"id": "daijoubu",
+    },
+    {
+      "id": "daijoubu",
       "fg": "だい じょう ぶ",
       "ch": "大丈夫",
       "en": [
         "ok"
       ]
-    },{
-		"id": "watashi",
+    },
+    {
+      "id": "watashi",
       "fg": "わたし",
       "ch": "私",
       "en": [
-        "I", "me"
+        "I",
+        "me"
       ]
-    },{
-		"id": "boku",
+    },
+    {
+      "id": "boku",
       "fg": "ぼく",
       "ch": "僕",
       "en": [
-        "I", "me"
+        "I",
+        "me"
       ],
       "clr": "masculine"
-    },{
-		"id": "ore",
+    },
+    {
+      "id": "ore",
       "fg": "おれ",
       "ch": "俺",
       "en": [
-        "I", "me"
+        "I",
+        "me"
       ],
       "clr": "masculine casual"
-    },{
-		"id": "okane",
+    },
+    {
+      "id": "okane",
       "fg": "かね",
       "ch": "お金",
       "en": [
         "money"
       ]
-    },{
-		"id": "gohan",
+    },
+    {
+      "id": "gohan",
       "fg": "はん",
       "ch": "ご飯",
       "en": [
-        "cooked rice", "meal"
+        "cooked rice",
+        "meal"
       ]
-    },{
-		"id": "kazoku",
+    },
+    {
+      "id": "kazoku",
       "fg": "か ぞく",
       "ch": "家族",
       "en": [
         "family"
       ]
-    },{
-		"id": "ryoushin",
+    },
+    {
+      "id": "ryoushin",
       "fg": "りょう しん",
       "ch": "両親",
       "en": [
         "parents"
       ]
-    },{
-		"id": "haha",
+    },
+    {
+      "id": "haha",
       "fg": "はは",
       "ch": "母",
       "en": [
         "mother"
       ]
-    },{
-		"id": "chichi",
+    },
+    {
+      "id": "chichi",
       "fg": "ちち",
       "ch": "父",
       "en": [
         "father"
       ]
-    },{
-		"id": "tsuma",
+    },
+    {
+      "id": "tsuma",
       "fg": "つま",
       "ch": "妻",
       "en": [
         "wife"
       ],
       "clr": "mine"
-    },{
-		"id": "okusan",
+    },
+    {
+      "id": "okusan",
       "fg": "おく",
       "ch": "奥さん",
       "en": [
         "wife"
       ],
       "clr": "someone else's"
-    },{
-		"id": "otto",
+    },
+    {
+      "id": "otto",
       "fg": "おっと",
       "ch": "夫",
       "en": [
         "husband"
       ],
       "clr": "mine"
-    },{
-		"id": "goshujin",
+    },
+    {
+      "id": "goshujin",
       "fg": "しゅ じん",
       "ch": "ご主人",
       "en": [
         "husband"
       ],
       "clr": "someone else's"
-    },{
-		"id": "ane",
+    },
+    {
+      "id": "ane",
       "fg": "あね",
       "ch": "姉",
       "en": [
         "older sister"
       ]
-    },{
-		"id": "oneesan",
+    },
+    {
+      "id": "oneesan",
       "fg": "ねえ",
       "ch": "お姉さん",
       "en": [
         "older sister"
       ]
-    },{
-		"id": "imouto",
+    },
+    {
+      "id": "imouto",
       "fg": "いもうと",
       "ch": "妹",
       "en": [
         "younger sister"
       ]
-    },{
-		"id": "otouto",
+    },
+    {
+      "id": "otouto",
       "fg": "おとうと",
       "ch": "弟",
       "en": [
         "younger brother"
       ]
-    },{
-		"id": "ani",
+    },
+    {
+      "id": "ani",
       "fg": "あに",
       "ch": "兄",
       "en": [
         "older brother"
       ]
-    },{
-		"id": "oniisan",
+    },
+    {
+      "id": "oniisan",
       "fg": "にい",
       "ch": "お兄さん",
       "en": [
         "older brother"
       ]
-    },{
-		"id": "musuko",
+    },
+    {
+      "id": "musuko",
       "fg": "むすこ",
       "ch": "息子",
       "en": [
         "son"
       ]
-    },{
-		"id": "musume",
+    },
+    {
+      "id": "musume",
       "fg": "むすめ",
       "ch": "娘",
       "en": [
         "daughter"
       ]
-    },{
-		"id": "Yamada",
+    },
+    {
+      "id": "Yamada",
       "fg": "やま だ",
       "ch": "山田",
       "en": [
         "Yamada"
       ],
       "clr": "surname"
-    },{
-		"id": "nihonjin",
+    },
+    {
+      "id": "nihonjin",
       "fg": "に ほん じん",
       "ch": "日本人",
       "en": [
         "Japanese person"
       ]
-    },{
-		"id": "atsui",
+    },
+    {
+      "id": "atsui",
       "fg": "あつ",
       "ch": "暑い",
       "en": [
         "hot_1"
       ],
       "clr": "weather"
-    },{
-		"id": "ashita",
+    },
+    {
+      "id": "ashita",
       "fg": "あした",
       "ch": "明日",
       "en": [
         "tomorrow"
       ]
-    },{
-		"id": "Tanaka",
+    },
+    {
+      "id": "Tanaka",
       "fg": "た なか",
       "ch": "田中",
       "en": [
         "Tanaka"
       ],
       "clr": "surname"
-    },{
-		"id": "himitsu",
+    },
+    {
+      "id": "himitsu",
       "fg": "ひ みつ",
       "ch": "秘密",
       "en": [
         "secret"
       ]
-    },{
-		"id": "wakai",
+    },
+    {
+      "id": "wakai",
       "fg": "わか",
       "ch": "若い",
       "en": [
         "young"
       ]
-    },{
-		"id": "tanoshii",
+    },
+    {
+      "id": "tanoshii",
       "fg": "たの",
       "ch": "楽しい",
       "en": [
         "fun"
       ]
-    },{
-		"id": "samui",
+    },
+    {
+      "id": "samui",
       "fg": "さむ",
       "ch": "寒い",
       "en": [
         "cold_1"
       ],
       "clr": "weather"
-    },{
-		"id": "suki",
+    },
+    {
+      "id": "suki",
       "fg": "す",
       "ch": "好き",
       "en": [
         "likeable"
       ]
-    },{
-		"id": "kirai",
+    },
+    {
+      "id": "kirai",
       "fg": "きら",
       "ch": "嫌い",
       "en": [
         "distasteful"
       ]
-    },{
-		"id": "saiwai",
+    },
+    {
+      "id": "saiwai",
       "fg": "さいわ",
       "ch": "幸い",
       "en": [
-        "luckily", "fortunately"
+        "luckily",
+        "fortunately"
       ]
-    },{
-		"id": "hito",
+    },
+    {
+      "id": "hito",
       "fg": "ひと",
       "ch": "人",
       "en": [
         "person"
       ]
-    },{
-		"id": "toki",
+    },
+    {
+      "id": "toki",
       "fg": "とき",
       "ch": "時",
       "en": [
         "when"
       ]
-    },{
-		"id": "mono",
+    },
+    {
+      "id": "mono",
       "fg": "もの",
       "ch": "物",
       "en": [
-        "object", "thing"
+        "object",
+        "thing"
       ]
-    },{
-		"id": "Yamamoto",
+    },
+    {
+      "id": "Yamamoto",
       "fg": "やま もと",
       "ch": "山本",
       "en": [
         "Yamamoto"
       ],
       "clr": "surname"
-    },{
-		"id": "atarashii",
+    },
+    {
+      "id": "atarashii",
       "fg": "あたら",
       "ch": "新しい",
       "en": [
         "new"
       ]
-    },{
-		"id": "nihongo",
+    },
+    {
+      "id": "nihongo",
       "fg": "に ほん ご",
       "ch": "日本語",
       "en": [
         "Japanese"
       ],
       "clr": "language"
-    },{
-		"id": "jyouzu",
+    },
+    {
+      "id": "jyouzu",
       "fg": "じょう ず",
       "ch": "上手",
       "en": [
         "skillful"
       ]
-    },{
-		"id": "hiru",
+    },
+    {
+      "id": "hiru",
       "fg": "ひる",
       "ch": "昼",
       "en": [
         "afternoon"
       ]
-    },{
-		"id": "nemui",
+    },
+    {
+      "id": "nemui",
       "fg": "ねむ",
       "ch": "眠い",
       "en": [
         "sleepy"
       ]
-    },{
-		"id": "oyasumi",
+    },
+    {
+      "id": "oyasumi",
       "fg": "やす",
       "ch": "お休み",
       "en": [
         "good night"
       ]
-    },{
-		"id": "shukudai",
+    },
+    {
+      "id": "shukudai",
       "fg": "しゅく だい",
       "ch": "宿題",
       "en": [
         "homework"
       ]
-    },{
-		"id": "muzukashii",
+    },
+    {
+      "id": "muzukashii",
       "fg": "むずか",
       "ch": "難しい",
       "en": [
         "difficult"
       ]
-    },{
-		"id": "kantan",
+    },
+    {
+      "id": "kantan",
       "fg": "かん たん",
       "ch": "簡単",
       "en": [
         "easy"
       ]
-    },{
-		"id": "tabun",
+    },
+    {
+      "id": "tabun",
       "fg": "た ぶん",
       "ch": "多分",
       "en": [
         "maybe"
       ]
-    },{
-		"id": "namae",
+    },
+    {
+      "id": "namae",
       "fg": "な まえ",
       "ch": "名前",
       "en": [
         "name"
       ]
-    },{
-		"id": "kuruma",
+    },
+    {
+      "id": "kuruma",
       "fg": "くるま",
       "ch": "車",
       "en": [
         "car"
       ]
-    },{
-		"id": "nihon",
+    },
+    {
+      "id": "nihon",
       "fg": "に ほん",
       "ch": "日本",
       "en": [
         "Japan"
       ]
-    },{
-		"id": "tsukue",
+    },
+    {
+      "id": "tsukue",
       "fg": "つくえ",
       "ch": "机",
       "en": [
         "desk"
       ]
-    },{
-		"id": "ue",
+    },
+    {
+      "id": "ue",
       "fg": "うえ",
       "ch": "上",
       "en": [
-        "above", "up"
+        "above",
+        "up"
       ]
-    },{
-		"id": "shita",
+    },
+    {
+      "id": "shita",
       "fg": "した",
       "ch": "下",
       "en": [
-        "down", "below"
+        "down",
+        "below"
       ]
-    },{
-		"id": "akai",
+    },
+    {
+      "id": "akai",
       "fg": "あか",
       "ch": "赤い",
       "en": [
         "red"
       ]
-    },{
-		"id": "hon",
+    },
+    {
+      "id": "hon",
       "fg": "ほん",
       "ch": "本",
       "en": [
         "book"
       ]
-    },{
-		"id": "omoshiroi",
+    },
+    {
+      "id": "omoshiroi",
       "fg": "おも しろ",
       "ch": "面白い",
       "en": [
         "interesting"
       ]
-    },{
-		"id": "kotoshi",
+    },
+    {
+      "id": "kotoshi",
       "fg": "ことし",
       "ch": "今年",
       "en": [
         "this year"
       ]
-    },{
-		"id": "fuyu",
+    },
+    {
+      "id": "fuyu",
       "fg": "ふゆ",
       "ch": "冬",
       "en": [
         "winter"
       ]
-    },{
-		"id": "jugyou",
+    },
+    {
+      "id": "jugyou",
       "fg": "じゅ ぎょう",
       "ch": "授業",
       "en": [
-        "class", "lecture"
+        "class",
+        "lecture"
       ]
-    },{
-		"id": "zenzen",
+    },
+    {
+      "id": "zenzen",
       "fg": "ぜん ぜん",
       "ch": "全然",
       "en": [
         "not at all"
       ]
-    },{
-		"id": "shumi",
+    },
+    {
+      "id": "shumi",
       "fg": "しゅ み",
       "ch": "趣味",
       "en": [
-        "hobby", "interest"
+        "hobby",
+        "interest"
       ]
-    },{
-		"id": "tabemono",
+    },
+    {
+      "id": "tabemono",
       "fg": "た もの",
       "ch": "食べ物",
       "en": [
         "food"
       ]
-    },{
-		"id": "rainen",
+    },
+    {
+      "id": "rainen",
       "fg": "らい ねん",
       "ch": "来年",
       "en": [
         "next year"
       ]
-    },{
-		"id": "ichiban",
+    },
+    {
+      "id": "ichiban",
       "fg": "いち ばん",
       "ch": "一番",
       "en": [
-        "number 1", "best"
+        "number 1",
+        "best"
       ]
-    },{
+    },
+    {
       "id": "akachan",
       "fg": "あか",
       "ch": "赤ちゃん",
@@ -1064,21 +1522,26 @@
       ]
     }
   ],
-  "pre-noun adjectivals": [{
-    "id": "kono",
-    "ch": "この",
-    "en": [
-      "this"
-    ]
-  }],
-  "pronoun": [{
-    "id": "anata",
-    "ch": "あなた",
-    "en": [
-      "you"
-    ]
-  }],
-  "verbs": [{
+  "pre-noun adjectivals": [
+    {
+      "id": "kono",
+      "ch": "この",
+      "en": [
+        "this"
+      ]
+    }
+  ],
+  "pronoun": [
+    {
+      "id": "anata",
+      "ch": "あなた",
+      "en": [
+        "you"
+      ]
+    }
+  ],
+  "verbs": [
+    {
       "id": "taberu",
       "fg": "た",
       "ch": "食べる",
@@ -1096,7 +1559,8 @@
       ]
     }
   ],
-  "suruVerbs": [{
+  "suruVerbs": [
+    {
       "id": "nonbiri",
       "ch": "のんびり",
       "en": [
@@ -1119,8 +1583,11 @@
       "en": "idle"
     }
   ],
-  "dropRuVerbs": [{}],
-  "irregularVerbs": [{
+  "dropRuVerbs": [
+    {}
+  ],
+  "irregularVerbs": [
+    {
       "id": "aru",
       "ch": "ある",
       "en": [
@@ -1148,27 +1615,31 @@
   ],
   "adjectives": [],
   "iAdjectives": [],
-  "naAdjectives": [{
-    "id": "mitai",
-    "fg": "みたい",
-    "en": [
-      "like5",
-      "sort of",
-      "similar to",
-      "resembling"
-    ]
-  },{
-    "id": "suki",
-    "fg": "す",
-    "ch": "好き",
-    "en": [
-      "like5",
-      "sort of",
-      "similar to",
-      "resembling"
-    ]
-  }],
-  "adverbs": [{
+  "naAdjectives": [
+    {
+      "id": "mitai",
+      "fg": "みたい",
+      "en": [
+        "like5",
+        "sort of",
+        "similar to",
+        "resembling"
+      ]
+    },
+    {
+      "id": "suki",
+      "fg": "す",
+      "ch": "好き",
+      "en": [
+        "like5",
+        "sort of",
+        "similar to",
+        "resembling"
+      ]
+    }
+  ],
+  "adverbs": [
+    {
       "id": "chotto",
       "ch": "ちょっと",
       "en": [
@@ -1219,7 +1690,8 @@
   "counters": [],
   "conjunctions": [],
   "expressions": [],
-  "particles": [{
+  "particles": [
+    {
       "id": "kara",
       "ch": "から",
       "en": [
